@@ -1,2 +1,1 @@
-# Training_PatentAnalytics
-IPOPHL
+# Manila-OpenSource-Group
